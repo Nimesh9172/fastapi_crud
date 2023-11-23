@@ -1,0 +1,31 @@
+# .gitignore for FastAPI project
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+
+
+# Dependency directories
+/.venv/
+
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Python bytecode
+*.pyc
+
+# Logs
+*.log
