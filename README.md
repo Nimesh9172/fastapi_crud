@@ -10,6 +10,7 @@ To install project dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-
+```
+To run project
 ```bash
 uvicorn product.main:app --reload
